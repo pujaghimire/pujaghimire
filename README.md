@@ -21,7 +21,7 @@ My toolkit spans the modern data stack, bridging heavy data engineering and anal
 
 ### 🚀 Featured Retail & E-Commerce Portfolio
 
-#### 1. [Omnichannel Apparel Data Model](#) *(Insert link to your repository)*
+#### 1. [Omnichannel Apparel Data Model](#) *(https://github.com/pujaghimire/omnichannel-retail-data-model.git)*
 *A complete ELT project simulating enterprise apparel retail data flows to solve customer identity resolution and inventory tracking.*
 *   **The Problem:** Disjointed data between frontend e-commerce systems and legacy in-store platforms made it impossible to track omnichannel customer behavior.
 *   **The Solution:** Engineered a robust dimensional model, writing automated data processing workflows to ingest, validate, and standardize data into analytics-ready schemas. 
@@ -38,11 +38,14 @@ My toolkit spans the modern data stack, bridging heavy data engineering and anal
 ### 💼 Professional Experience Highlights
 
 *   **Amazon** | *Software Development Engineer (Data Engineering)*
-    Designed and maintained reliable pipelines processing 3M+ daily product records for core fulfillment systems. Implemented robust data quality and anomaly detection frameworks, reducing downstream data issues by ~15%.
+    Designed and maintained reliable pipelines processing 3M+ daily product records for core fulfillment systems.
+    Implemented robust data quality and anomaly detection frameworks, reducing downstream data issues by ~15%.
 *   **Inovaara Technologies** | *Founding Data Engineer*
-    Owned and scaled the data platform architecture for an early-stage e-commerce product supporting 30+ sellers. Designed extensible schemas for dashboards and operational reporting. 
+    Owned and scaled the data platform architecture for an early-stage e-commerce product supporting 30+ sellers.
+    Designed extensible schemas for dashboards and operational reporting. 
 *   **Impact Analytics** | *Data Scientist / Data Engineer*
-    Developed large-scale ETL/ELT pipelines using Python, SQL, and BigQuery. Built automated workflows via Airflow and Tableau dashboards that improved revenue visibility and supported a ~2% YoY client revenue increase.
+    Developed large-scale ETL/ELT pipelines using Python, SQL, and BigQuery.
+    Built automated workflows via Airflow and Tableau dashboards that improved revenue visibility and supported a ~2% YoY client revenue increase.
 
 ---
 
