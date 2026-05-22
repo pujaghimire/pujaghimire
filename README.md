@@ -27,7 +27,7 @@ My toolkit spans the modern data stack, bridging heavy data engineering and anal
 *   **The Solution:** Engineered a robust dimensional model, writing automated data processing workflows to ingest, validate, and standardize data into analytics-ready schemas. 
 *   **Key Tech:** Python, SQL, BigQuery, Apache Airflow.
 
-#### 2. [E-Commerce Supply Chain & Fulfillment Monitor](#) *(Link coming soon...)*
+#### 2. [E-Commerce Supply Chain & Fulfillment Monitor](#) *(https://github.com/pujaghimire/ecommerce_supply_chain_monitor)*
 *A near-real-time pipeline designed to monitor inventory movement and product validation.*
 *   **The Problem:** High-volume transactional data lacked the necessary data quality checks, leading to downstream reporting inaccuracies for sellers.
 *   **The Solution:** Implemented validation frameworks and anomaly detection on synthetic product records. Built monitoring tooling to ensure data consistency and proactive issue detection.
@@ -38,14 +38,14 @@ My toolkit spans the modern data stack, bridging heavy data engineering and anal
 ### 💼 Professional Experience Highlights
 
 *   **Amazon** | *Software Development Engineer (Data Engineering)*
-    Designed and maintained reliable pipelines processing 3M+ daily product records for core fulfillment systems.
-    Implemented robust data quality and anomaly detection frameworks, reducing downstream data issues by ~15%.
+    *Designed and maintained reliable pipelines processing 3M+ daily product records for core fulfillment systems.
+    *Implemented robust data quality and anomaly detection frameworks, reducing downstream data issues by ~15%.
 *   **Inovaara Technologies** | *Founding Data Engineer*
-    Owned and scaled the data platform architecture for an early-stage e-commerce product supporting 30+ sellers.
-    Designed extensible schemas for dashboards and operational reporting. 
+    *Owned and scaled the data platform architecture for an early-stage e-commerce product supporting 30+ sellers.
+    *Designed extensible schemas for dashboards and operational reporting. 
 *   **Impact Analytics** | *Data Scientist / Data Engineer*
-    Developed large-scale ETL/ELT pipelines using Python, SQL, and BigQuery.
-    Built automated workflows via Airflow and Tableau dashboards that improved revenue visibility and supported a ~2% YoY client revenue increase.
+    *Developed large-scale ETL/ELT pipelines using Python, SQL, and BigQuery.
+    *Built automated workflows via Airflow and Tableau dashboards that improved revenue visibility and supported a ~2% YoY client revenue increase.
 
 ---
 
